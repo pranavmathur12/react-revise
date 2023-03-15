@@ -36,7 +36,7 @@ const App = () => {
               />
               <img
               src = {SearchIcon}
-              alt="search"
+              alt="search button"
               onClick={() => {
                 SearchMovies(searchTerm)
               }}
